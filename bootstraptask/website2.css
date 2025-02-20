@@ -1,0 +1,10 @@
+#headerbody{
+    font-weight: 900;
+}
+.body1:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    padding: 3px 10px;
+}

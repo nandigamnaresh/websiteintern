@@ -1,0 +1,220 @@
+.nav{
+    display: flex;
+    background-color: #fff;
+
+    
+}
+nav{
+    position: sticky;
+}
+
+
+#header1{
+    color: red;
+    margin-left: 150px;
+    font-size: 25px;
+}
+
+.nav input{
+    border: 2px solid green;
+    height: 30px;
+    border-radius: 10px;
+    width: 650px;
+    margin-left: 15px;
+    margin-top: 14px;
+    padding-left: 20px;
+    font-weight: 600;
+}
+#but1{
+    width: 120px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: 400;
+    border: 1px solid #EEEEEE;
+    border-color: #EEEEEE;
+    cursor: pointer;
+
+}
+#but2{
+    width: 120px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: 400;
+    border: 2px solid black;
+    border-color:black;
+    background-color: black;
+  
+    color: white;
+    cursor: pointer;
+}
+.nav a{
+    color: white;
+      text-decoration: none;
+}
+
+.nav2{
+
+    margin-left: 150px;
+}
+#nav21{
+    margin-left: 55px;
+    font-size: medium;
+    font-weight: 100;
+    padding: 8px 15px;
+    background-color: green;
+    color: white;
+    border: 2px solid green;
+}
+#nav21,#nav22,#nav23,#nav24,#nav25,#nav26,#nav27{
+    margin-left: 55px;
+    font-size: medium;
+    font-weight: 100;
+    padding: 8px 15px;
+    
+}
+#nav22,#nav23,#nav24,#nav25,#nav26,#nav27{
+    background-color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    text-decoration: none;
+}
+#nav22:hover,#nav23:hover,#nav24:hover,#nav25:hover,#nav26:hover,#nav27:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.section1{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#section11{
+    margin-left: 70px;
+}
+#section11but{
+    padding: 5px 58px;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+}
+#section11but:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.section2{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#section21{
+    margin-left: 70px;
+}
+#section21but{
+    padding: 5px 58px;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+}
+#section21but:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+.section3{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#section31{
+    margin-left: 70px;
+}
+#section31but{
+    padding: 5px 58px;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+}
+#section31but:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+.section4{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#section41{
+    margin-left: 70px;
+}
+#section41but{
+    padding: 5px 58px;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+}
+#section41but:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+
+.foot{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-top: 100px;
+
+    
+}
+.foot ul
+{
+    list-style: none;
+    padding: 80px 70px;
+
+}
+ 
+.foot2 {
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.foot2 ul
+{
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    font-size: 16px;
+
+}
+img:hover{
+    cursor: pointer;
+    width: 106%;
+}
